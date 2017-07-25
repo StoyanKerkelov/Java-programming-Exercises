@@ -1,5 +1,5 @@
 
-package DictionaryExample;
+package dictionaryExample;
 	/**
 	* This class is used by Dictionary Abstract Data Type (ADT).
 	* It encapsulates Key and Value objects.

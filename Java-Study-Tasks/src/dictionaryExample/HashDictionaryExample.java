@@ -1,4 +1,4 @@
-package DictionaryExample;
+package dictionaryExample;
 
 public class HashDictionaryExample {
 	public static void main(String[] args) {

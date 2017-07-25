@@ -1,4 +1,4 @@
-package DictionaryExample;
+package dictionaryExample;
 
 /**
  * Interface that defines basic methods needed for a class which maps keys to
